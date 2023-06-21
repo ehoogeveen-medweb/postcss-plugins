@@ -1,5 +1,10 @@
 # Changes to PostCSS Gradients Interpolation Method
 
+### Unreleased (patch)
+
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md) (patch)
+
+
 ### 3.0.6 (June 1, 2023)
 
 - Updated `@csstools/postcss-progressive-custom-properties` to `2.3.0` (minor)

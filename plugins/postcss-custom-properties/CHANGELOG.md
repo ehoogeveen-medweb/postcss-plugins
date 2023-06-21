@@ -1,5 +1,10 @@
 # Changes to PostCSS Custom Properties
 
+### Unreleased (patch)
+
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md) (patch)
+
+
 ### 13.2.0 (June 1, 2023)
 
 - Do not generate fallback values when the rule is wrapped in `@supports (top: var(--f))`.

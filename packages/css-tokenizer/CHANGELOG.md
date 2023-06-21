@@ -1,6 +1,6 @@
 # Changes to CSS Tokenizer
 
-### Unreleased (patch)
+### 2.1.2 (June 21, 2023)
 
 - Testing
 

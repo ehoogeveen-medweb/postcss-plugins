@@ -1,5 +1,10 @@
 # Changes to CSS Parser Algorithms
 
+### Unreleased (patch)
+
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md) (patch)
+
+
 ### 2.2.0 (June 1, 2023)
 
 - Add `state` to `walk` methods.
