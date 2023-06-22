@@ -1,5 +1,10 @@
 # Changes to Cascade Layer Name Parser
 
+### Unreleased (patch)
+
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md#2-1-2) (patch)
+
+
 ### 1.0.2
 
 _April 10, 2023_

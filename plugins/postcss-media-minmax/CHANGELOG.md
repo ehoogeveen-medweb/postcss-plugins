@@ -1,5 +1,10 @@
 # Changes to PostCSS Media MinMax
 
+### Unreleased (patch)
+
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md#2-1-2) (patch)
+
+
 ### 1.0.4
 
 _June 21, 2023_

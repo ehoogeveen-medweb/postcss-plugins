@@ -1,5 +1,10 @@
 # Changes to PostCSS HWB Function
 
+### Unreleased (patch)
+
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md#2-1-2) (patch)
+
+
 ### 2.2.2
 
 _May 19, 2023_

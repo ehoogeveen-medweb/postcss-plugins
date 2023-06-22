@@ -1,5 +1,11 @@
 # Changes to CSS Tokenizer
 
+### 2.1.2
+
+_June 22, 2023_
+
+- Dummy change
+
 ### 2.1.1
 
 _April 10, 2023_

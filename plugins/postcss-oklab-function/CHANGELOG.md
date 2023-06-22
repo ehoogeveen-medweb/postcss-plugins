@@ -1,5 +1,10 @@
 # Changes to PostCSS OKLab Function
 
+### Unreleased (patch)
+
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md#2-1-2) (patch)
+
+
 ### 2.2.3
 
 _June 1, 2023_
