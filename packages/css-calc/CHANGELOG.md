@@ -1,5 +1,10 @@
 # Changes to CSS Calc
 
+### Unreleased (patch)
+
+- Dummy change
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md#2-1-2) (patch)
+
 ### 1.1.1
 
 _April 10, 2023_

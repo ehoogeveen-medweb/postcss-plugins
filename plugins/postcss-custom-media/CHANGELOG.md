@@ -1,5 +1,9 @@
 # Changes to PostCSS Custom Media
 
+### Unreleased (patch)
+
+- Updated [`@csstools/css-tokenizer`](/packages/css-tokenizer) to [`2.1.2`](/packages/css-tokenizer/CHANGELOG.md#2-1-2) (patch)
+
 ### 9.1.5
 
 _June 21, 2023_
